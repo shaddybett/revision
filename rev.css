@@ -1,0 +1,28 @@
+#nav{
+    background-color: aqua;
+    padding: 20px;
+    display: flex;
+    
+}
+a{
+    float: right;
+    text-decoration: none;
+    margin-inline-end: 20px;
+    cursor: pointer;
+}
+a:hover{
+    color: aqua;
+}
+button{
+    float: right;
+    margin-right: 20px;
+    background-color: purple;
+    color: aliceblue;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: blue;
+}
+img{
+    height: 100px;
+}
