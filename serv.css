@@ -1,0 +1,36 @@
+#signin-form{
+    transform: translateX(200px) translateY(200px);
+    color: grey;
+    font-size: large;
+    
+
+}
+#email{
+    margin-bottom: 20px;
+
+}
+#password{
+    margin-bottom: 10px;
+}
+#submit{
+    display: flex;
+    ;
+}
+#signin-form button{
+    margin-left: 150px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    color: white;
+    cursor: pointer;
+}
+#signin-form button:hover{
+    background-color: aqua;
+}
+#title{
+    display: flex;
+    justify-content: centr;
+    align-items: center;
+    color: grey;
+    transform: translateY(150px);
+    margin-left: 200px;
+}
